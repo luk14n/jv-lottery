@@ -12,7 +12,7 @@ public class Lottery {
         this.colorSupplier = colorSupplier;
     }
     //This constructor allows you to inject a custom ColorSupplier.
-    // instance into the Lottery. This is useful if you want to use
+    // instance into the Lottery. This is useful if you want to use.
     // a specific implementation of ColorSupplier, perhaps for testing or customization.
     // It ensures that the Lottery class can be initialized with any ColorSupplier you provide.
 
